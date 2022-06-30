@@ -1,0 +1,4 @@
+I 'm learning git
+
+I'd like to learn Git.
+Git is really simple, sometimes naive.
