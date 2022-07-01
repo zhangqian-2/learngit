@@ -1,2 +1,10 @@
 This is the first exercise.
 have a good time
+
+
+Git has a mutable index called stage.
+Git tracks changes of files.
+
+对暂存区进行修改
+
+再次进行修改
